@@ -1,0 +1,108 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box; }
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto; }
+
+.row {
+  width: 100%;
+  display: flex; }
+
+.column {
+  margin-left: 10px; }
+  .column:first-child {
+    margin-left: 0px; }
+
+.col-1 {
+  width: 8.33%; }
+
+.col-2 {
+  width: 16.33%; }
+
+.col-3 {
+  width: 25%; }
+
+.col-4 {
+  width: 33.33%; }
+
+.col-5 {
+  width: 41.66%; }
+
+.col-6 {
+  width: 49.99%; }
+
+.col-7 {
+  width: 58.32%; }
+
+.col-8 {
+  width: 66.65%; }
+
+.col-9 {
+  width: 74.98%; }
+
+.col-10 {
+  width: 83.31%; }
+
+.col-11 {
+  width: 91.64%; }
+
+.col-12 {
+  width: 100%; }
+
+.offset-col-1 {
+  margin-left: 8.33%; }
+
+.offset-col-2 {
+  margin-left: 16.33%; }
+
+.offset-col-3 {
+  margin-left: 25%; }
+
+.offset-col-4 {
+  margin-left: 33.33%; }
+
+.offset-col-5 {
+  margin-left: 41.66%; }
+
+.offset-col-6 {
+  margin-left: 49.99%; }
+
+.offset-col-7 {
+  margin-left: 58.32%; }
+
+.offset-col-8 {
+  margin-left: 66.65%; }
+
+.offset-col-9 {
+  margin-left: 74.98%; }
+
+.offset-col-10 {
+  width: 83.31%; }
+
+.offset-col-11 {
+  margin-left: 91.64%; }
+
+.offset-col-12 {
+  margin-left: 100%; }
+
+/*# sourceMappingURL=architect-grid.css.map */
